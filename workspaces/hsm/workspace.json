@@ -1,0 +1,29 @@
+{
+  "description": "coeus.",
+  "image_src": "vs-code.png".
+  "friendly_name": "coeus",
+  "architecture": [
+    "amd64",
+  ],
+  "compatibility": [
+    {
+      "version": "1.16.x",
+      "image": "kasmweb/vs-code:1.16",
+      "uncompressed_size_mb": 2428,
+      "available_tags": [
+        "develop",
+        "1.16.0"
+      ]
+
+    },
+    {
+      "version": "1.17.x",
+      "image": "kasmweb/vs-code:1.17",
+      "uncompressed_size_mb": 2528,
+      "available_tags": [
+        "develop",
+        "1.17.0"
+      ]
+    }
+  ]
+}
