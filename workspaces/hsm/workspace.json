@@ -1,9 +1,14 @@
 {
-  "description": "coeus.",
-  "image_src": "vs-code.png".
-  "friendly_name": "coeus",
+  "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "vs-code.png",
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Visual Studio Code",
   "architecture": [
     "amd64",
+    "arm64"
   ],
   "compatibility": [
     {
