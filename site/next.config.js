@@ -4,10 +4,10 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'test',
+    description: 'test.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://oliver-cox-hsm.github.io/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
