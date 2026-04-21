@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'test',
     description: 'test.',
     icon: '/img/logo.svg',
-    listUrl: 'https://oliver-cox-hsm.github.io/',
+    listUrl: 'https://oliver-cox-hsm.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
