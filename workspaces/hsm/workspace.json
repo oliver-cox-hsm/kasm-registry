@@ -13,7 +13,7 @@
   "compatibility": [
     {
       "version": "1.18.x",
-      "image": "kasmweb/vs-code:1.17",
+      "image": "olivercox/coeus:latest",
       "uncompressed_size_mb": 2528,
       "available_tags": [
         "develop",
