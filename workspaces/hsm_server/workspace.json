@@ -14,29 +14,12 @@
     {
       "version": "1.18.x",
       "image": "olivercox/hsm:latest",
-      "uncompressed_size_mb": 2528,
+      "uncompressed_size_mb": 120,
       "available_tags": [
         "develop",
         "1.18.0"
       ]
     }
   ]
-}
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-~                                                                                                                                                                        
-"workspace.json" 24L, 437B                                                                                                                             1,1           All
+}                                                                                                                         1,1           All
 
