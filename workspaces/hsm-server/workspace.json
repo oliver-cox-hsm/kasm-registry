@@ -5,7 +5,7 @@
   "categories": [
     "Development"
   ],
-  "friendly_name": "COEUS",
+  "friendly_name": "HSM",
   "architecture": [
     "amd64",
     "arm64"
