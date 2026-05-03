@@ -12,12 +12,12 @@
   ],
   "compatibility": [
     {
-      "version": "1.17.x",
+      "version": "1.18.x",
       "image": "olivercox/hsm:latest",
       "uncompressed_size_mb": 120,
       "available_tags": [
         "develop",
-        "1.17.0"
+        "1.18.0"
       ]
     }
   ]
