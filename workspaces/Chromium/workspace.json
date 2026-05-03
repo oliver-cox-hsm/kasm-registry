@@ -5,15 +5,15 @@
   "categories": [
     "Development"
   ],
-  "friendly_name": "COEUS",
+  "friendly_name": "HSM",
   "architecture": [
     "amd64",
     "arm64"
   ],
   "compatibility": [
     {
-      "version": "1.18x",
-      "image": "olivercox/coeus:latest",
+      "version": "1.18.x",
+      "image": "olivercox/hsm:latest",
       "uncompressed_size_mb": 120,
       "available_tags": [
         "develop",
@@ -21,4 +21,4 @@
       ]
     }
   ]
-}                                                                                                                         1,1           All
+}
